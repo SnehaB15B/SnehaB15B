@@ -1,5 +1,5 @@
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlqZWZseDg5eHU3ajh2OXBua2V5OGIxYWVpMWdocWM2czFybmtmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif" width="300"/>
-# 👋 Hi, I’m Sneha<img 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlqZWZseDg5eHU3ajh2OXBua2V5OGIxYWVpMWdocWM2czFybmtmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif" width="300"/>
+# 👋 Hi, I’m Sneha
 
 🎓 I’m an aspiring Data Analyst & Engineer  
 🧠 Passionate about AI, Python, and solving real-world problems  
