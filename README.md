@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Sneha
 
-<!--
-**SnehaB15B/SnehaB15B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m an aspiring Data Analyst & Engineer  
+🧠 Passionate about AI, Python, and solving real-world problems  
+💼 Currently working on: ATS Resume Analyzer (Streamlit App)  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sneha-bhanage-9ba72a2a8/) | [Email](snehabhanage15@gmail.com)  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python | Pandas | NumPy
+- Streamlit | Scikit-learn | Matplotlib
+- HTML | CSS | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha123&show_icons=true&theme=radical)
+
+
+## ✍️ Fun Fact
+I love using AI to make life easier — one project at a time!
+
